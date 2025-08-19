@@ -27,7 +27,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <a href="#" className="text-2xl font-bold font-mono gradient-text">404 CULT</a>
         <nav className="hidden md:flex space-x-8 items-center">
-          <a href="#components" className="hover:text-purple-400 transition-colors">Components</a>
+          <a href="https://rei-ui-lake.vercel.app/" className="hover:text-purple-400 transition-colors">Components</a>
           <a href="#manifesto" className="hover:text-purple-400 transition-colors">Manifesto</a>
           <a href="#join" className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-lg transition-all transform hover:scale-105 glow-shadow">
             Join the Cult
